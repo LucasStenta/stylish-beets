@@ -9,6 +9,7 @@ html {
 body {
   background-color: #c9b5ab;
   font-family: "PT Serif", serif;
+  line-height: 1.5;
 }
 
 h1, h2 {
@@ -68,4 +69,13 @@ main ol {
 
 aside ul {
   list-style-type: circle;
+}
+
+a {
+  text-decoration: none;
+  color: #8f2440;
+}
+
+a:hover {
+  color: #3f1622;
 }
