@@ -61,3 +61,11 @@ blockquote:nth-of-type(2) {
   font-size: 0.8rem;
   font-weight: normal;
 }
+
+main ol {
+  list-style-type: lower-greek;
+}
+
+aside ul {
+  list-style-type: circle;
+}
